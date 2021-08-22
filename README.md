@@ -1,3 +1,1 @@
-# wisdom-of-crowds
-
-## Text Analysis, WordCloud, Text Mining
+# Wisdom of Crowds
